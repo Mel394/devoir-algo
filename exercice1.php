@@ -6,5 +6,6 @@
 $budgetinitial =readline("Quel est votre budget initial?");
 echo "$budgetinitial \n"; 
 
+//crée
 
 ?>
